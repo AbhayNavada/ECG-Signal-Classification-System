@@ -1,0 +1,22 @@
+{
+    "name": "Backend",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node app"
+    },
+    "dependencies": {
+        "bcrypt": "*",
+        "body-parser": "*",
+        "cors": "*",
+        "express": "*",
+        "jsonwebtoken": "*",
+        "mongoose": "*",
+        "multer": "^1.4.1",
+        "nodemailer": "*",
+        "passport": "*",
+        "passport-jwt": "*",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4"
+    }
+}
